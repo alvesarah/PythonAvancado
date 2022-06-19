@@ -19,7 +19,7 @@ print([n for n in range(11) if n % 2 == 1])
 #Escrever nomes da mesma forma
 pessoas = [" Ana ", "manuela", "FELIPe", "PedrO "]
 
-ana = ' Ana '
+ana = " Ana "
 ana.strip() #Retira os espaços
 ana.lower() #Deixa em minúsculo
 ana.upper() #maiúsculo
